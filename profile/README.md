@@ -1,10 +1,21 @@
 ## Hi there 👋
 
-Single contributor organization.  
+This organization is for single contributor who hard to accepted in job vacancy.  
+Contributor impired to create chained application.  
 Crafting apps for hobby and a such waste if not published.  
 
 ### Release
-Everything in this organization will be released on next year(_2023_).
+Everything in this organization will be released every year.  
+It's not like use waterfall model, but contributor will use agile model.  
+And all repository in this organization is _private_.
+
+Collections:
+- URL Shortener (_Release 2023_)
+- Password Enc (_Release 2024_)
+- Event Limiter (_Release 2025_)
+- Email Marketer (_Release 2026_)
+- Notification (_Release 2027_)
+- Todolist (_Release 2028_)
 
 <!--
 
