@@ -17,6 +17,10 @@ Collections:
 - Notification (_Release 2027_)
 - Todolist (_Release 2028_)
 
+Because all projects in this organization is prototype,  
+Contributors will limit free users to 200 accounts annually.  
+(_Still considering a paid account for subscription_)
+
 <!--
 
 **Here are some ideas to get you started:**
