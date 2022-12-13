@@ -1,13 +1,14 @@
 ## Hi there 👋
 
 This organization is for single contributor who hard to accepted in job vacancy.  
-Contributor impired to create chained application.  
+Contributor inspired to create chained application.  
 Crafting apps for hobby and a such waste if not published.  
 
 ### Release
 Everything in this organization will be released every year.  
-It's not like use waterfall model, but contributor will use agile model.  
-And all repository in this organization is _private_.
+It's not like use waterfall model,  
+But basically all project published via this github organization (_maybe on twitter too_).  
+And all repository in this organization is _private_.  
 
 Collections:
 - URL Shortener (_Release 2023_)
