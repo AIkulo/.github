@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 This organization is for single contributor.  
-Contributor inspired to create chained application.  
+Contributor inspired to create chained application (_microservices_).  
 Crafting apps for hobby and a such waste if not published.  
 
 ### Release
