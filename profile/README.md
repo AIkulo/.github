@@ -1,17 +1,17 @@
 ## Hi there 👋
 
-This organization is for single contributor who hard to accepted in job vacancy.  
+This organization is for single contributor.  
 Contributor inspired to create chained application.  
 Crafting apps for hobby and a such waste if not published.  
 
 ### Release
 Everything in this organization will be released every year.  
-It's not like use waterfall model,  
+Maybe it's like waterfall model isn't it? because all of application developed by one developer,  
 But basically all project published via this github organization (_maybe on twitter too_).  
 And all repository in this organization is _private_.  
 
 Collections:
-- URL Shortener (_Release 2023_)
+- [URL Shortener](http://shortener.okumaru.my.id/) (_Release 2023_)
 - Password Enc (_Release 2024_)
 - Event Limiter (_Release 2025_)
 - Email Marketer (_Release 2026_)
